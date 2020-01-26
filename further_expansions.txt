@@ -1,4 +1,4 @@
 further developments:
-1. make vcfs from csv
-2. make it streamlined for all aap courses
+1. make vcfs from csv - done
+2. make it streamlined for all aap courses -done
 3. make a gui for interaction.
