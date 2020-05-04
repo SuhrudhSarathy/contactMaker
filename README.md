@@ -18,7 +18,7 @@ eg:
 
 **Output**
 1. A csv file containing split students and the contact information
-2. A separate csv and a vcf file for Ech subject with their contact
+2. A separate csv and a vcf file for each subject with their contact
 **Contact making**
 If the ID number is 1234F5GH*7645* and the student has chosen a subject 'CDFG F234', then the contact made will be
 **CDFGF324_*A*7645**, here 'A' will be allotted based on batch size.
