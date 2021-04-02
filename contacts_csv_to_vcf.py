@@ -5,6 +5,7 @@ import pandas as pd
 import sys
 
 #input the subject data
+# ["name of the csv/vcf file", "Subject code with spaces or however is given in the google sheet", "number of groups"]
 subject_codes = [['EG', 'BITS F110', 1],
                  ['EEE', 'EEE F111', 1],
                  ['THM', 'BITS F111', 4],
